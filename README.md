@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Sangadala</h1>
-<h3 align="center">A passionate AI/ML research</h3>
+<h3 align="center">AI/ML ENTHUSIAST</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
