@@ -44,7 +44,7 @@ Here are some of the projects I've worked on:
 ## 🌱 Currently Learning
 
 I'm always expanding my knowledge! Currently, I'm diving deeper into:
-- Advanced techniques in **Prompt Engineering** and **Fine-Tuning**.
+- Advanced techniques in **Prompt Engineering**, **Fine-Tuning** and **Retrieval-Augmented Generatione(RAG)**.
 - Exploring **Quantization** and **LoRA** for efficient model deployment.
 - Experimenting with **RAG** and **LangChain** for building intelligent applications.
 
@@ -60,16 +60,6 @@ I'm always open to collaborating on interesting projects or discussing AI/ML. Fe
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🔥 Fun Fact
-
-Did you know? The largest transformer-based model, GPT-4, has over 175 billion parameters! 🤯  
 
 ---
 
