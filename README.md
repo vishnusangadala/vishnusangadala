@@ -1,9 +1,76 @@
-<h1 align="center">Hi 👋, I'm Vishnu Sangadala</h1>
-<h3 align="center">AI/ML ENTHUSIAST</h3>
+# Hi, I'm Vishnu Sangadala 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Welcome to my GitHub profile! I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, with a focus on cutting-edge technologies like **Deep Learning**, **Transformers**, **Large Language Models (LLMs)**, and more. I love exploring how AI can solve real-world problems and am constantly learning and experimenting with new tools and techniques.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🔧 Skills & Expertise
+
+Here are some of the key areas I work on:
+
+- **Machine Learning (ML)**: Building predictive models, regression, classification, clustering, and more.
+- **Deep Learning**: Neural networks, CNNs, RNNs, GANs, and advanced architectures.
+- **Transformers**: Understanding and implementing transformer-based models like BERT, GPT, and T5.
+- **Large Language Models (LLMs)**: Working with state-of-the-art LLMs like OpenAI's GPT, LLaMA, and others.
+- **LangChain**: Building applications with LangChain for chaining language models and tools.
+- **Quantization**: Optimizing models for deployment using quantization techniques (e.g., INT8, FP16).
+- **LoRA (Low-Rank Adaptation)**: Fine-tuning large models efficiently with low-rank adaptations.
+- **QLoRA**: Quantized Low-Rank Adaptation for even more efficient fine-tuning.
+- **Prompt Tuning & Fine-Tuning**: Customizing pre-trained models for specific tasks using prompt engineering and fine-tuning.
+- **RAG (Retrieval-Augmented Generation)**: Combining retrieval-based methods with generative models for better performance.
+- **Prompt Engineering**: Crafting effective prompts to maximize model performance and accuracy.
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+### 1. **Medical Symptom Detection and Question-Answering System**  
+- Fine-tuned a quantized version of the **LLaMA-7B model** using **PEFT (Parameter-Efficient Fine-Tuning)** techniques on a medical dataset containing symptoms, diagnoses, and treatment information.  
+- Achieved **20% improvement in accuracy** and **30% reduction in response latency** compared to GPT-4 and DeepSeek in medical question-answering tasks.  
+- Quantized the model to **4-bit precision** using **GPTQ**, reducing memory usage by **60%** while maintaining high performance for deployment on resource-constrained devices.  
+- Implemented **constraint engineering strategies** to optimize the model for symptom detection and medical advice, achieving **95% accuracy** in identifying symptoms from patient descriptions.  
+- Deployed the model using **FastAPI** and integrated it into a web-based interface for real-time medical consultations.  
+
+### 2. **Enterprise Knowledge Management Chatbot using RAG and Neo4j**  
+- Designed and implemented a chatbot for enterprise knowledge management using **Retrieval-Augmented Generation (RAG)** and **Neo4j** to provide accurate, context-aware responses to employee queries.  
+- Constructed a **Neo4j knowledge graph** to model hierarchical relationships between documents, departments, and employees, improving information retrieval efficiency by **40%**.  
+- Fine-tuned a **Falcon-7B model** using **LoRA (Low-Rank Adaptation)** techniques, achieving a **25% improvement in response accuracy** compared to GPT-4 for enterprise-specific queries.  
+- Developed advanced **prompt engineering strategies** to handle multi-turn conversations and complex queries, reducing irrelevant responses by **30%**.  
+
+---
+
+## 🌱 Currently Learning
+
+I'm always expanding my knowledge! Currently, I'm diving deeper into:
+- Advanced techniques in **Prompt Engineering** and **Fine-Tuning**.
+- Exploring **Quantization** and **LoRA** for efficient model deployment.
+- Experimenting with **RAG** and **LangChain** for building intelligent applications.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing AI/ML. Feel free to reach out:
+
+- **Email**: vishnu.sangadala@stonybrook.edu  
+- **LinkedIn**: [linkedin.com/in/vishnu-sangadala-81a844201](https://linkedin.com/in/vishnu-sangadala-81a844201)  
+- **Phone**: +1-934-263-2403  
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🔥 Fun Fact
+
+Did you know? The largest transformer-based model, GPT-4, has over 175 billion parameters! 🤯  
+
+---
+
+Thanks for visiting my profile! Let's build the future of AI together. 🚀
