@@ -13,11 +13,9 @@ I love combining **backend engineering** with **cutting-edge AI/ML** to solve re
   - Apache Kafka (event-driven systems), Redis (caching), SQL optimization  
   - Docker, Kubernetes, AWS (EC2, S3, Lambda, Fargate), Jenkins CI/CD  
 
-- **Machine Learning & AI**  
-  - Deep Learning: CNNs, RNNs, GANs, Transformers  
+- **Machine Learning & AI**   
   - LLMs: GPT, LLaMA, Falcon | Fine-tuning with LoRA, QLoRA, PEFT  
   - RAG (Retrieval-Augmented Generation), LangChain, Prompt Engineering  
-  - Quantization (INT8, FP16, GPTQ) for efficient deployment  
 
 - **Frontend & Databases**  
   - React, Angular, TypeScript, HTML, CSS  
@@ -25,36 +23,6 @@ I love combining **backend engineering** with **cutting-edge AI/ML** to solve re
 
 - **Foundations**  
   - Data Structures & Algorithms, System Design, Agile Methodologies  
-
----
-
-## 🚀 Projects  
-
-### 1. **Distributed Social Networking Platform** | Spring Boot, Kafka, Neo4j  
-- Built a LinkedIn-style networking platform scaling to **10M+ users and 1B+ interactions**.  
-- Powered real-time feeds with **Kafka Streams** and used **Neo4j** for graph-based recommendations.  
-- Deployed full observability stack (Zipkin, ELK, Prometheus/Grafana).  
-
-### 2. **Vector Database + RAG Search System** | AI + Distributed Systems  
-- Designed a **semantic search system** over documents/images with vector DBs.  
-- Integrated LLM reasoning with retrieval, boosting QA accuracy by **20%** vs baseline.  
-
-### 3. **Scalable Vacation Rental & Booking Platform** | Spring Boot, Kafka, Redis, Stripe  
-- Developed platform supporting **10K+ property listings**, with **55% faster query performance** using Redis caching.  
-- Integrated **Stripe payments** with concurrency-safe booking workflows.  
-- Achieved **85% faster API responses** with GraphQL APIs and AWS S3 integration.  
-
-### 4. **Medical Symptom Detection & QA System** | GenAI, LLaMA Fine-tuning  
-- Fine-tuned **LLaMA-7B** with PEFT + GPTQ, achieving **95% accuracy** and **30% faster inference**.  
-- Outperformed GPT-4 and DeepSeek in medical QA by **20% accuracy gain**.  
-- Deployed with **FastAPI** + web UI for real-time consultations.  
-
-### 5. **Enterprise Knowledge Management Chatbot** | RAG + Neo4j  
-- Built chatbot with **RAG + Neo4j**, improving retrieval efficiency by **40%**.  
-- Fine-tuned **Falcon-7B** with LoRA, boosting response accuracy by **25%**.  
-- Reduced irrelevant responses by **30%** via advanced prompt strategies.  
-
----
 
 ## 💼 Professional Experience  
 
