@@ -1,58 +1,76 @@
 # Hi, I'm Vishnu Sangadala 👋
 
-Welcome to my GitHub profile! I’m a **Software Development Engineer & Data Science M.S. student at Stony Brook University (Aug 2024 – May 2026)**, passionate about building **scalable distributed systems** and **AI-powered applications**.  
+Software Development Engineer with 2+ years of experience building scalable backend systems, distributed microservices, and AI-driven workflow automation platforms.
 
-I love combining **backend engineering** with **cutting-edge AI/ML** to solve real-world problems at scale.  
-
----
-
-## 🔧 Skills & Expertise  
-
-- **Backend & Distributed Systems**  
-  - Java, Spring Boot, REST APIs, Microservices, Spring MVC, JPA/Hibernate  
-  - Apache Kafka (event-driven systems), Redis (caching), SQL optimization  
-  - Docker, Kubernetes, AWS (EC2, S3, Lambda, Fargate), Jenkins CI/CD  
-
-- **Machine Learning & AI**   
-  - LLMs: GPT, LLaMA, Falcon | Fine-tuning with LoRA, QLoRA, PEFT  
-  - RAG (Retrieval-Augmented Generation), LangChain, Prompt Engineering  
-
-- **Frontend & Databases**  
-  - React, Angular, TypeScript, HTML, CSS  
-  - Databases: MySQL, PostgreSQL, Oracle, Neo4j  
-
-- **Foundations**  
-  - Data Structures & Algorithms, System Design, Agile Methodologies  
-
-## 💼 Professional Experience  
-
-**Software Development Engineer – Infor (Aug 2022 – Aug 2024)**  
-- Migrated monolith to **Spring Boot microservices** (Docker + K8s), cutting release cycles by **60%**.  
-- Built EDI Transformation Service (VDA, X12, EDIFACT), enabling **1K+ daily B2B transactions**.  
-- Optimized APIs with **Redis caching (30% faster)** and **PostgreSQL tuning**.  
-- Improved Kafka pipelines by **25% throughput**; applied **SRE monitoring (99.9% uptime)**.  
-
-**Software Development Engineering Intern – Infor (Apr 2022 – Jul 2022)**  
-- Developed **5+ REST APIs** for Automotive Exchange used by **10K+ users**.  
-- Reduced API error rates by **15%**, raised test coverage by **25%** with JUnit/Mockito.  
+Currently pursuing a Master's in Data Science at Stony Brook University while working on multi-agent AI systems, workflow automation, and accessibility-focused UI automation research.
 
 ---
 
-## 🌱 Currently Learning  
+## 🚀 About Me
 
-- **Event-Driven Architectures** with Kafka + Spring Boot.  
-- **Agentic AI Systems** combining LLMs with real-time decisioning.  
-- **Cloud-Native Scaling** with AWS + Kubernetes.  
-
----
-
-## 📫 Let’s Connect!  
-
-- 📧 **Email**: vishnu.sangadala@stonybrook.edu  
-- 💼 **LinkedIn**: [linkedin.com/in/vishnu-sangadala-81a844201](https://linkedin.com/in/vishnu-sangadala-81a844201)  
-- 🖥 **GitHub**: [github.com/vishnusangadala](https://github.com/vishnusangadala)  
-- 📱 **Phone**: +1-934-263-2403  
+* 💻 Former Software Development Engineer at Infor
+* 🎓 MS in Data Science @ Stony Brook University
+* ⚙️ Interested in Backend Engineering, Distributed Systems, and AI Infrastructure
+* 🤖 Working on Multi-Agent AI Workflow Automation Systems
+* ☁️ Experience with AWS, Kafka, Redis, Kubernetes, Docker, and CI/CD
+* 🧠 Solved 500+ LeetCode problems focused on Data Structures & Algorithms
 
 ---
 
-🚀 Thanks for visiting my profile! Let’s build the future of **AI + Distributed Systems** together.  
+## 🛠️ Tech Stack
+
+### Languages
+
+Java • Python • C++ • SQL • TypeScript
+
+### Backend & Distributed Systems
+
+Spring Boot • REST APIs • Microservices • Kafka • Redis • Distributed Systems • Object-Oriented Design
+
+### Cloud & DevOps
+
+AWS (EC2, S3, RDS, CloudWatch) • Docker • Kubernetes • Jenkins • CI/CD • Linux
+
+### Databases
+
+PostgreSQL • MySQL • NoSQL • Redis
+
+### AI & Automation
+
+LLM Applications • LangGraph • Multi-Agent Systems • Workflow Automation • FastAPI
+
+---
+
+## 📌 Featured Projects
+
+### Multi-Agent AI Workflow Automation System
+
+Built a multi-agent AI platform that converts voice commands into executable desktop workflows using ASR, LLMs, and UI automation. Designed planning, execution, and verification pipelines for reliable automation across dynamic application states.
+
+### Multi-Agent Code Review & Documentation Assistant
+
+Built a LangGraph-based ReAct system with analyzer, reviewer, documenter, and verifier agents. Reduced manual review effort by 40% using automated workflows and human-in-the-loop validation.
+
+### Distributed Social Networking Platform
+
+Designed a scalable microservices architecture using Spring Boot, Kafka, and Neo4j with observability pipelines using Zipkin, ELK, and Prometheus/Grafana.
+
+---
+
+## 📈 Experience Highlights
+
+* Migrated legacy monoliths to distributed microservices architecture on AWS
+* Improved API latency by 30% using Redis caching and query optimization
+* Increased Kafka pipeline throughput by 25% for high-volume data streams
+* Built and deployed containerized backend services using Docker and Kubernetes
+* Developed CI/CD pipelines using Jenkins for automated deployments
+
+---
+
+## 🏆 Achievements
+
+* Vice President, Coding Club — Sathyabama Institute of Science and Technology
+* Solved 500+ LeetCode problems
+* Researching AI-driven accessibility and workflow automation systems
+
+---
