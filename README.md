@@ -1,43 +1,44 @@
-# Hi, I'm Vishnu Sangadala 👋
+# Vishnu Sangadala
 
-Software Engineer with 2+ years of experience building backend systems, distributed services, and AI-powered applications.
+Software Engineer with 2+ years of experience building backend systems, distributed services, and scalable applications.
 
-I recently completed my MS in Data Science at Stony Brook University, where I worked on multi-agent AI systems, workflow automation, and accessibility-focused research. My interests lie at the intersection of backend engineering, distributed systems, AI infrastructure, and agentic AI.
-
----
-
-## What I'm Currently Exploring
-
-* Multi-Agent AI Systems
-* Agent Evaluation & Verification
-* AI Workflow Automation
-* Distributed Systems & Event-Driven Architectures
-* Backend Engineering at Scale
-* AI Infrastructure & Reliability
+Recently completed an MS in Data Science at Stony Brook University. My interests include backend engineering, distributed systems, platform engineering, and building reliable software systems.
 
 ---
 
-## Tech Stack
+## Areas of Interest
+
+* Backend Engineering
+* Distributed Systems
+* Platform Engineering
+* Event-Driven Architectures
+* Cloud Infrastructure
+* Workflow Automation
+* Software Design
+
+---
+
+## Technologies
 
 ### Languages
 
 Java • Python • C++ • SQL • TypeScript
 
-### Backend Engineering
+### Backend
 
-Spring Boot • REST APIs • Microservices • Kafka • Redis • Distributed Systems • Object-Oriented Design
+Spring Boot • REST APIs • Microservices • Kafka • Redis • Object-Oriented Design
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 
-AWS • Docker • Kubernetes • Jenkins • CI/CD • Linux
+AWS • Docker • Kubernetes • Jenkins • Linux • CI/CD
 
 ### Databases
 
 PostgreSQL • MySQL • Redis • NoSQL
 
-### AI & Automation
+### Frameworks & Tools
 
-LangGraph • Multi-Agent Systems • LLM Applications • Workflow Automation • FastAPI
+React • FastAPI • Git • Maven
 
 ---
 
@@ -45,75 +46,71 @@ LangGraph • Multi-Agent Systems • LLM Applications • Workflow Automation �
 
 ### CreditFlow AI
 
-A multi-agent credit analysis platform built around verification, evaluation, and human oversight.
+A credit analysis platform designed around verification, evaluation, and human oversight.
 
-Key features:
+Key Features:
 
-* Multi-agent workflow orchestration
-* Credit memo generation
-* Verifier agent
-* Human-in-the-loop review
+* Multi-service architecture
+* Workflow orchestration
+* Verification layer
 * Audit trails
-* Evaluation framework
-* LangSmith observability
+* Human review workflows
+* Observability and monitoring
 
-**Tech:** Java, Spring Boot, PostgreSQL, Python, LangGraph, OpenAI, React, Docker
+Tech Stack:
+Java, Spring Boot, PostgreSQL, Python, React, Docker
 
 ---
 
-### Multi-Agent AI Workflow Automation
+### Workflow Automation Platform
 
-Built a system that converts voice commands into executable desktop workflows using ASR, LLMs, and UI automation.
+Built a system that converts voice commands into executable desktop workflows using speech recognition, workflow planning, and UI automation.
 
 Highlights:
 
-* Planner → Executor → Verifier architecture
-* Human-in-the-loop validation
-* Dynamic UI understanding
-* Reliability-focused workflow execution
+* Workflow orchestration
+* Validation pipelines
+* Human review support
+* Reliability-focused execution
 
 ---
 
 ### Distributed Social Networking Platform
 
-Designed and built a scalable social networking platform using microservices and event-driven architecture.
+Designed a scalable social networking platform using microservices and event-driven architecture.
 
 Highlights:
 
 * Spring Boot microservices
 * Kafka event streaming
 * Neo4j graph relationships
-* Observability with ELK, Zipkin, Prometheus, and Grafana
+* Observability using ELK, Zipkin, Prometheus, and Grafana
 
 ---
 
 ## Experience Highlights
 
-* Built and maintained distributed backend systems serving enterprise customers
-* Improved API latency through caching and query optimization
+* Built and maintained enterprise backend systems
+* Designed and developed REST APIs and distributed services
+* Improved API performance through caching and query optimization
 * Increased event-processing throughput using Kafka
-* Developed containerized services with Docker and Kubernetes
-* Designed CI/CD pipelines for automated deployments
-* Worked on AI-driven workflow automation and accessibility research
+* Built containerized applications using Docker and Kubernetes
+* Developed CI/CD pipelines for automated deployments
 
 ---
 
-## Current Interests
+## Currently Exploring
 
-I am particularly interested in building:
-
-* Agentic AI Systems
-* AI Reliability & Evaluation Platforms
+* Distributed Systems Design
 * Backend Infrastructure
-* Distributed Systems
-* Developer Platforms
-* AI-Powered Enterprise Applications
+* System Design
+* Cloud-Native Applications
+* Platform Engineering
 
 ---
 
-## Let's Connect
+## Connect
 
-* LinkedIn: linkedin.com/in/vishnusangadala
-* GitHub: github.com/vishnusangadala
+LinkedIn: linkedin.com/in/vishnusangadala
 
-Always happy to discuss software engineering, distributed systems, AI infrastructure, and agentic AI.
+GitHub: github.com/vishnusangadala
