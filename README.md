@@ -1,76 +1,119 @@
 # Hi, I'm Vishnu Sangadala 👋
 
-Software Development Engineer with 2+ years of experience building scalable backend systems, distributed microservices, and AI-driven workflow automation platforms.
+Software Engineer with 2+ years of experience building backend systems, distributed services, and AI-powered applications.
 
-Currently pursuing a Master's in Data Science at Stony Brook University while working on multi-agent AI systems, workflow automation, and accessibility-focused UI automation research.
-
----
-
-## 🚀 About Me
-
-* 💻 Former Software Development Engineer at Infor
-* 🎓 MS in Data Science @ Stony Brook University
-* ⚙️ Interested in Backend Engineering, Distributed Systems, and AI Infrastructure
-* 🤖 Working on Multi-Agent AI Workflow Automation Systems
-* ☁️ Experience with AWS, Kafka, Redis, Kubernetes, Docker, and CI/CD
-* 🧠 Solved 500+ LeetCode problems focused on Data Structures & Algorithms
+I recently completed my MS in Data Science at Stony Brook University, where I worked on multi-agent AI systems, workflow automation, and accessibility-focused research. My interests lie at the intersection of backend engineering, distributed systems, AI infrastructure, and agentic AI.
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm Currently Exploring
+
+* Multi-Agent AI Systems
+* Agent Evaluation & Verification
+* AI Workflow Automation
+* Distributed Systems & Event-Driven Architectures
+* Backend Engineering at Scale
+* AI Infrastructure & Reliability
+
+---
+
+## Tech Stack
 
 ### Languages
 
 Java • Python • C++ • SQL • TypeScript
 
-### Backend & Distributed Systems
+### Backend Engineering
 
 Spring Boot • REST APIs • Microservices • Kafka • Redis • Distributed Systems • Object-Oriented Design
 
 ### Cloud & DevOps
 
-AWS (EC2, S3, RDS, CloudWatch) • Docker • Kubernetes • Jenkins • CI/CD • Linux
+AWS • Docker • Kubernetes • Jenkins • CI/CD • Linux
 
 ### Databases
 
-PostgreSQL • MySQL • NoSQL • Redis
+PostgreSQL • MySQL • Redis • NoSQL
 
 ### AI & Automation
 
-LLM Applications • LangGraph • Multi-Agent Systems • Workflow Automation • FastAPI
+LangGraph • Multi-Agent Systems • LLM Applications • Workflow Automation • FastAPI
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### Multi-Agent AI Workflow Automation System
+### CreditFlow AI
 
-Built a multi-agent AI platform that converts voice commands into executable desktop workflows using ASR, LLMs, and UI automation. Designed planning, execution, and verification pipelines for reliable automation across dynamic application states.
+A multi-agent credit analysis platform built around verification, evaluation, and human oversight.
 
-### Multi-Agent Code Review & Documentation Assistant
+Key features:
 
-Built a LangGraph-based ReAct system with analyzer, reviewer, documenter, and verifier agents. Reduced manual review effort by 40% using automated workflows and human-in-the-loop validation.
+* Multi-agent workflow orchestration
+* Credit memo generation
+* Verifier agent
+* Human-in-the-loop review
+* Audit trails
+* Evaluation framework
+* LangSmith observability
+
+**Tech:** Java, Spring Boot, PostgreSQL, Python, LangGraph, OpenAI, React, Docker
+
+---
+
+### Multi-Agent AI Workflow Automation
+
+Built a system that converts voice commands into executable desktop workflows using ASR, LLMs, and UI automation.
+
+Highlights:
+
+* Planner → Executor → Verifier architecture
+* Human-in-the-loop validation
+* Dynamic UI understanding
+* Reliability-focused workflow execution
+
+---
 
 ### Distributed Social Networking Platform
 
-Designed a scalable microservices architecture using Spring Boot, Kafka, and Neo4j with observability pipelines using Zipkin, ELK, and Prometheus/Grafana.
+Designed and built a scalable social networking platform using microservices and event-driven architecture.
+
+Highlights:
+
+* Spring Boot microservices
+* Kafka event streaming
+* Neo4j graph relationships
+* Observability with ELK, Zipkin, Prometheus, and Grafana
 
 ---
 
-## 📈 Experience Highlights
+## Experience Highlights
 
-* Migrated legacy monoliths to distributed microservices architecture on AWS
-* Improved API latency by 30% using Redis caching and query optimization
-* Increased Kafka pipeline throughput by 25% for high-volume data streams
-* Built and deployed containerized backend services using Docker and Kubernetes
-* Developed CI/CD pipelines using Jenkins for automated deployments
+* Built and maintained distributed backend systems serving enterprise customers
+* Improved API latency through caching and query optimization
+* Increased event-processing throughput using Kafka
+* Developed containerized services with Docker and Kubernetes
+* Designed CI/CD pipelines for automated deployments
+* Worked on AI-driven workflow automation and accessibility research
+
+---
+
+## Current Interests
+
+I am particularly interested in building:
+
+* Agentic AI Systems
+* AI Reliability & Evaluation Platforms
+* Backend Infrastructure
+* Distributed Systems
+* Developer Platforms
+* AI-Powered Enterprise Applications
 
 ---
 
-## 🏆 Achievements
+## Let's Connect
 
-* Vice President, Coding Club — Sathyabama Institute of Science and Technology
-* Solved 500+ LeetCode problems
-* Researching AI-driven accessibility and workflow automation systems
+* LinkedIn: linkedin.com/in/vishnusangadala
+* GitHub: github.com/vishnusangadala
 
----
+Always happy to discuss software engineering, distributed systems, AI infrastructure, and agentic AI.
