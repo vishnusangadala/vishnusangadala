@@ -49,24 +49,24 @@ I design software across three layers: **services that scale**, **native code th
   <tr>
     <td width="50%">
       <a href="https://github.com/vishnusangadala/cuda-image-processing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnusangadala&repo=cuda-image-processing&theme=github_dark&hide_border=true&description_lines_count=3" width="100%" alt="CUDA Image Processing Accelerator" />
+        <img src="./assets/card-cuda.svg" width="100%" alt="CUDA Image Processing Accelerator" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/vishnusangadala/creditflow-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnusangadala&repo=creditflow-ai&theme=github_dark&hide_border=true&description_lines_count=3" width="100%" alt="CreditFlow AI" />
+        <img src="./assets/card-creditflow.svg" width="100%" alt="CreditFlow AI" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/vishnusangadala/Distributed_Social_Networking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnusangadala&repo=Distributed_Social_Networking&theme=github_dark&hide_border=true&description_lines_count=3" width="100%" alt="Distributed Social Networking Platform" />
+        <img src="./assets/card-distributed.svg" width="100%" alt="Distributed Social Networking Platform" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/vishnusangadala/UI-automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishnusangadala&repo=UI-automation&theme=github_dark&hide_border=true&description_lines_count=3" width="100%" alt="LLM-powered UI Automation" />
+        <img src="./assets/card-automation.svg" width="100%" alt="LLM-powered UI Automation" />
       </a>
     </td>
   </tr>
